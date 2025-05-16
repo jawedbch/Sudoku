@@ -68,6 +68,10 @@ Solution trouvée :
 | 3 6 8 | 2 5 9 | 7 1 4 |
 +-------+-------+-------+
 
+## Auteur
+
+Baouche Mohamed Djaouad — med0djawed@gmail.com
+
 
 
      
