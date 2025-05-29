@@ -1,6 +1,8 @@
 # Sudoku Multithread
 
-Ce projet implémente un générateur et un solveur de Sudoku en C, utilisant la programmation multithread avec `pthread`.
+Projet réalisé dans le cadre du TP de systemes d'exploitation — Université du Havre       
+Ce projet implémente un générateur et un solveur de Sudoku en C, utilisant la programmation multithread avec `pthread`.    
+Encadré par : Laurent Amanton
 
 ---
 
